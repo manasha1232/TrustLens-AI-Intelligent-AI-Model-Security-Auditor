@@ -18,3 +18,7 @@ Document request/response contracts, header requirements and sample payloads.
   "verified": true
 }
 ```
+
+
+// --- [CommitFlow Agent: Day 46 Task #688] Day 46 (Part 13/15): Document TaskItem API specifications and schemas ---
+// Implemented: Document request/response contracts, header requirements and sample payloads.
