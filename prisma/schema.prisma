@@ -1,0 +1,6 @@
+// Day 46 (Part 1/15): Update TaskItem persistence model and relations
+// Project: TrustLens AI — Intelligent AI Model Security Auditor
+// Category: DATABASE_MODEL
+
+export const MODULE_NAME = 'schema';
+export const VERSION = '1.0.0';
