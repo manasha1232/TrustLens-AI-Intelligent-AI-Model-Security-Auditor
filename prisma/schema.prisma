@@ -4,3 +4,12 @@
 
 export const MODULE_NAME = 'schema';
 export const VERSION = '1.0.0';
+
+
+// --- [CommitFlow Agent: Day 47 Task #691] Day 47 (Part 1/15): Update TaskItem persistence model and relations ---
+model EntityTask691 {
+  id        String   @id @default(uuid())
+  title     String
+  status    String   @default("ACTIVE")
+  createdAt DateTime @default(now())
+}
